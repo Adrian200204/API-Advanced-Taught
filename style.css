@@ -1,0 +1,17 @@
+.inputBox
+{
+    margin-left: 40%;
+}
+
+.inputValueText
+{
+    padding: 5px 10px;
+    margin: 12px 5px;
+    /* margin-top: 2px; */
+}
+.features
+{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+}
